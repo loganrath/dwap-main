@@ -1,11 +1,11 @@
 @import "normalize";
 @import "rouge-github";
-@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Pangolin&display=swap');
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 15px;
+  font-family: Pangolin, 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
   color: #666;
@@ -25,7 +25,6 @@ a:hover {
 
 header {
   background: #011825;
-  height: 200px;
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
