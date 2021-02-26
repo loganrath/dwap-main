@@ -8,10 +8,10 @@ body {
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
 }
 
-h1 {font-size: 2em; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
-h2 {font-size: 1.5em; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
-h3 {font-size: 1.25em; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
-h4 {font-size: 1em; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
+h1 {font-size: 2em; display: block; width:100%; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
+h2 {font-size: 1.5em;  display: block; width:100%; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
+h3 {font-size: 1.25em;  display: block; width:100%; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
+h4 {font-size: 1em;  display: block; width:100%;  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
 
 header {
   background: #011825;

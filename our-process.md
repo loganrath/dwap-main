@@ -7,7 +7,7 @@ Use this  guide at your own risk. This guide only works when the page says No Ap
 
 
 # The Basic Idea
-Install the [Free Auto Refresh addon](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal&sa=D&source=editors&ust=1614361008096000&usg=AOvVaw2UONjt4MFQvNQjAEVcWyvc){:target="_blank"} into your Chrome browser and configure it to refresh the page every 5-10 seconds. When it alerts you, grab a spot.
+Install the [Free Auto Refresh addon](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal){:target="_blank"} into your Chrome browser and configure it to refresh the page every 5-10 seconds. When it alerts you, grab a spot.
 
 **Pro Tip:** If you’re registering other people, use Chrome’s autofill to save time when you get to that step.
 
