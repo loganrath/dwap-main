@@ -36,8 +36,11 @@ Install the [Free Auto Refresh addon](https://www.google.com/url?q=https://chrom
 7. Click the toggle icon to turn on the countdown.
 8. Wait for your computer to make a sound and alert you that there is an appointment available. When this happens, click the button and proceed through. If you are not successful, start by right-clicking on Schedule your vaccine appointment and open it in a new tab.
 
+# Javascript Bookmarklets
+A javascript bookmarklet is a bookmark that sits in your address bar and uses javascript to manipulate the page. Here are a couple bookmarklets that can be useful.
+
 # Phantom Appointments
 NOTE: Occasionally there is a phantom appointment that makes the extension alert you. In this case you can either wait until the appointment clears out (usually 6:31pm).
 
-#Now What?
+# Now What?
 Now keep your browser window open and when your computer goes bing! you've got approximately 2 seconds to get to that window and choose a time. May the odds be ever in your favor!
