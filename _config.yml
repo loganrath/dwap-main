@@ -1,0 +1,21 @@
+title: DWAP Vaccine Help in Rochester
+description: > # this means to ignore newlines until "baseurl:"
+  This is my personal webpage
+permalink: pretty
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.dwap.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: DWAP # add your name
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
