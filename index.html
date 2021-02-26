@@ -1,11 +1,9 @@
 ---
 layout: default
-status: UP
 ---
 
 <div class="row">
     <div class="col-xs-12 col-md-8 mt-3">
-      { % if page.status == "UP" % }
       <p>We are an independent, very small group that is working to help those that are eligible, elderly and do not have the access to technology to get scheduled for a vaccination appointment.  <strong>We are not affiliated with any group or connection to NYS, county, or medical. We are just good at refreshing and filling out the forms quickly to book appointments.  There are NO guarantees!</strong></p>
 
       <p>We schedule by filling out the standard form on the <a href="https://am-i-eligible.covid19vaccine.health.ny.gov/" target="_blank">NYS “Am I eligible” Website</a></p>
@@ -14,9 +12,6 @@ status: UP
 
       <iframe class="d-none d-md-block" src="https://docs.google.com/forms/d/e/1FAIpQLSfLayVKGcTmjKQxJ5Pd-c1IbfvUmCkB3tWOWD2ZAP8bYMJZCg/viewform?embedded=true" width="640" height="5129" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-      {% else %}
-      <p>We are not currently accepting appointments, but do encourage you to watch this space<./p>
-       {% endif %}
   </div>
   <div class="col-xs-12 col-md-4 text-center mt-3">
     <a class="btn btn-success btn-lg my-3 py-4 btn-block" href="https://tiny.cc/c19spotny" target="_blank">Tips &amp; Tricks<br />(Our Process)</a>
