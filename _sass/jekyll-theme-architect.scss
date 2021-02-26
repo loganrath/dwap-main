@@ -25,7 +25,7 @@ header {
 @media only screen and (max-width: 959px) {header h1 {font-size: 52px;} }
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
-@media only screen and (min-width: 768px) and (max-width: 959px) { header h1 {font-size: 46px;} }
+@media only screen and (min-width: 768px) and (max-width: 959px) { header h1 {font-size: 42px;} }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) { header h1 {font-size: 40px;} #logo img {height:150px; width:auto !important} }
