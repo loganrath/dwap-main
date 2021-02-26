@@ -15,7 +15,7 @@ Install the [Free Auto Refresh addon](https://www.google.com/url?q=https://chrom
 
 **Tech Savvy?** Install [this unpacked extension](https://github.com/loganrath/C19Magic){:target="_blank"} in place of Free Auto Refresh. It will refresh the page every 10 seconds, provide an audio and text notification as well as click the Select Visit Time button if an appointment is available.
 
-#The Step by Step Instructions
+# The Step by Step Instructions
 1. Install the addon
   1. Go to https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal
   2. Click Add to Chrome
@@ -36,7 +36,7 @@ Install the [Free Auto Refresh addon](https://www.google.com/url?q=https://chrom
 7. Click the toggle icon to turn on the countdown.
 8. Wait for your computer to make a sound and alert you that there is an appointment available. When this happens, click the button and proceed through. If you are not successful, start by right-clicking on Schedule your vaccine appointment and open it in a new tab.
 
-#Phantom Appointments
+# Phantom Appointments
 NOTE: Occasionally there is a phantom appointment that makes the extension alert you. In this case you can either wait until the appointment clears out (usually 6:31pm).
 
 #Now What?
