@@ -1,6 +1,6 @@
 ---
 title: DWAP
-layout: meta
+layout: default
 redirect: https://sites.google.com/view/vaccinehelprochester/home
 ---
 We are an independent, very small group that is working to help those that are eligible, elderly and do not have the access to technology to get scheduled for a vaccination appointment.  <strong>We are not affiliated with any group or connection to NYS, county, or medical. We are just good at refreshing and filling out the forms quickly to book appointments.  There are NO guarantees!
