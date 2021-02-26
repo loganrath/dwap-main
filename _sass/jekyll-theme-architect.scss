@@ -29,7 +29,7 @@ header h1 { font-size: 60px;}
 
 /* Smaller than standard 960 (devices and browsers) */
 
-@media only screen and (max-width: 959px) and (max-width: 100px) {header h1 {font-size: 46px;} }
+@media only screen and (max-width: 959px) and (max-width: 1009px) {header h1 {font-size: 46px;} }
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) { header h1 {font-size: 42px;} }
