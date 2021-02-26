@@ -10,7 +10,9 @@ We schedule by filling out the standard form on the NYS “Am I eligible” Webs
 If you do have the technology resources, please try to schedule on your own so that we can focus on those that do not have the resources or ability. You can also call  **1-833-NYS-4-VAX (1-833-697-4829)**.
   </div>
   <div class="col-sm-12 col-md-4 text-center pt-3" markdown=1>
-  <p><button class="btn btn-success btn-lg" href="https://am-i-eligible.covid19vaccine.health.ny.gov/" target="_blank">Check Eligibility</button></p>
-  <p><button class="btn btn-info btn-lg" href="https://tiny.cc/dwapform" target="_blank">Fill Out the Form</button></p>
+  <div class="d-grid gap-2 col-10 mx-auto">
+    <button class="btn btn-primary btn-lg" type="button" href="https://am-i-eligible.covid19vaccine.health.ny.gov/" target="_blank">Check Eligibility</button>
+    <button class="btn btn-primary btn-lg" type="button" href="https://tiny.cc/dwapform" target="_blank">Fill Out the Form</button>
+    </div>
   </div>
 </div>
