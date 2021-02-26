@@ -1,5 +1,5 @@
 ---
 title: DWAP
 layout: meta
-redirect: https://sites.google.com/view/vaccinehelprochester/home
+redirect: https://tiny.cc/dwapform
 ---
