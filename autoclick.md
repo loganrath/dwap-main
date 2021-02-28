@@ -10,7 +10,7 @@ The [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmcee
 
 # Step 1: Install the Extension
  1. Go to [https://chrome.google.com/extensions/detail/iapifmceeokikomajpccajhjpacjmibe](https://chrome.google.com/extensions/detail/iapifmceeokikomajpccajhjpacjmibe){:target="_blank"} install the extension.
- 2. Use the puzzle piece icon to pin the extension.
+ 2. Use the puzzle piece icon to pin the extension to your browser.
 
 # Step 2: Download and install the configuration File
 This configuration file currently works, but we cannot guarantee that it will always work.
@@ -19,8 +19,14 @@ This configuration file currently works, but we cannot guarantee that it will al
  3. Click the three vertical dots and use the import button below the green button.  
  ![Screenshot showing installation](/assets/images/autoclick-config.png)
  4. Select the file you downloaded in step 1.
- 5. Under the Configuration heading, edit the URL field so that the number after apps in the first part of the URL matches the web address of your site. This could be apps2, apps4, apps5, apps7, or some other domain.  
+ 5. Under the Configuration heading, edit the URL field so that the number after apps in the first part of the URL matches the web address of your site. This could be apps2, apps4, apps5, apps7, or some other number.  
  ![Screenshot showing URL to fix](/assets/images/autoclick-url.png)
+
+# Step 3: Close and Reopen Chrome
+Quit and re-open Chrome. Then when you land on a page that has a time slot available, it should auto select it and show you the form to begin registration. If you receive an error message on the website, that means someone else grabbed the time before you. You can then start over looking for appointments.
+
+# Step 4: Update as Needed
+If the URL of the appointment page changes (e.g. from apps5 to apps7), you will need to repeat step 2 part 5 to make sure the correct domain in showing.
 
 
 # To turn off this extension
