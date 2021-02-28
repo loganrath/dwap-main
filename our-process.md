@@ -3,7 +3,7 @@ title: Our Process
 layout: default
 ---
 
-<div class="alert alert-info" markdown=1>
+<div class="col-xs-12 alert alert-info" markdown=1>
 # Warning
 Use this  guide at your own risk. This guide only works when the page says No Appointments Available. **If there is an appointment available, but no available times once you click the Select Visit Time button, you must wait for the system to update. This will happen at the end of the time span listed in the appointment**
 </div>
