@@ -13,7 +13,9 @@ Install the [Free Auto Refresh addon](https://www.google.com/url?q=https://chrom
 
 **Pro Tip:** Right-click and open links in a new window.
 
-**Tech Savvy?** Install [this unpacked extension](https://github.com/loganrath/C19Magic){:target="_blank"} in place of Free Auto Refresh. It will refresh the page every 10 seconds, provide an audio and text notification as well as click the Select Visit Time button if an appointment is available. Combine it with the [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmceeokikomajpccajhjpacjmibe){:target="_blank"} extension to automatically grab the time.
+**Tech Savvy?** Install [this unpacked extension](https://github.com/loganrath/C19Magic){:target="_blank"} in place of Free Auto Refresh. It will refresh the page every 10 seconds, provide an audio and text notification as well as click the Select Visit Time button if an appointment is available.
+
+<!--Combine it with the [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmceeokikomajpccajhjpacjmibe){:target="_blank"} extension to automatically grab the time.-->
 
 # The Step by Step Instructions
 1. Install the extension
