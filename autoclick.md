@@ -14,7 +14,7 @@ The [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmcee
 
 # Step 2: Download and install the configuration File
 This configuration file currently works, but we cannot guarantee that it will always work.
- 1. Right-click on this [configuration file](/docs/autoclick_time.json) and save it to your computer using the Save Link as option.
+ 1. Right-click on this [configuration file](https://raw.githubusercontent.com/loganrath/dwap-main/gh-pages/docs/autoclick_time.json){:target="_blank"} and save it to your computer using the Save Link as option.
  2. Click on the extension to open the settings.
  3. Click the three vertical dots on the configuration section (not the green button) and then choose import.  
  ![Screenshot showing installation](/assets/images/autoclick-import.png)
