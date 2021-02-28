@@ -20,6 +20,8 @@ This configuration file currently works, but we cannot guarantee that it will al
  4. Select the file you downloaded in step 1.
  5. Under the Configuration heading, edit the URL field so that the number after apps in the first part of the URL matches the web address of your site. This could be apps2, apps4, apps5, apps7, or some other number.  
  ![Screenshot showing URL to fix](/assets/images/autoclick-url.png)
+ 6. Do not edit anything else for this configuration.
+ 7. Click the blue Save button.
 
 # Step 3: Close and Reopen Chrome
 Quit and re-open Chrome. Then when you land on a page that has a time slot available, it should auto select it and show you the form to begin registration. If you receive an error message on the website, that means someone else grabbed the time before you. You can then start over looking for appointments.
