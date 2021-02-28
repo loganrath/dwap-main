@@ -16,8 +16,8 @@ The [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmcee
 This configuration file currently works, but we cannot guarantee that it will always work.
  1. Right-click on this [configuration file](/docs/autoclick_time.json) and save it to your computer using the Save Link as option.
  2. Click on the extension to open the settings.
- 3. Click the three vertical dots and use the import button below the green button.  
- ![Screenshot showing installation](/assets/images/autoclick-config.png)
+ 3. Click the three vertical dots on the configuration section (not the green button) and then choose import.  
+ ![Screenshot showing installation](/assets/images/autoclick-import.png)
  4. Select the file you downloaded in step 1.
  5. Under the Configuration heading, edit the URL field so that the number after apps in the first part of the URL matches the web address of your site. This could be apps2, apps4, apps5, apps7, or some other number.  
  ![Screenshot showing URL to fix](/assets/images/autoclick-url.png)
