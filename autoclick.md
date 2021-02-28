@@ -3,6 +3,8 @@ layout: default
 title: Using Auto Click Auto Fill
 ---
 
+We have had a lot of luck using this addon to automatically grab times. It does take more work
+
 # Auto Click Auto Fill
 The [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmceeokikomajpccajhjpacjmibe){:target="_blank"} extension will automatically select the time. To use it:
 
@@ -14,6 +16,9 @@ The [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmcee
  1. Right-click on this [configuration file](/docs/autoclick_time.json) and save it to your computer using the Save Link as option.
  2. Click on the extension to open the settings.
  3. Click the three vertical dots and use the import button below the green button.
- ![Screenshot showing installation](/assets/images/autoclick-config.png)
+![Screenshot showing installation](/assets/images/autoclick-config.png)
  4. Select the file you downloaded in step 1.
  5. Edit the URL field so that the number after apps in the first part of the URL matches the web address of your site. This could be apps2, apps4, apps5, apps7, or some other domain.
+
+# Turn off this extension
+You need to disable the extension in order for it to stop working.
