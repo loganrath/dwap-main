@@ -2,9 +2,11 @@
 title: Our Process
 layout: default
 ---
+
+<div class="alert alert-info" markdown=1>
 # Warning
 Use this  guide at your own risk. This guide only works when the page says No Appointments Available. **If there is an appointment available, but no available times once you click the Select Visit Time button, you must wait for the system to update. This will happen at the end of the time span listed in the appointment**
-
+</div>
 
 # The Basic Idea
 Install the [Free Auto Refresh addon](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal){:target="_blank"} into your Chrome browser and configure it to refresh the page every 5-10 seconds. When it alerts you, grab a spot.
@@ -28,7 +30,7 @@ Install the [Free Auto Refresh addon](https://www.google.com/url?q=https://chrom
   1. Click on the puzzle piece icon and then pin the addon to your browser
   ![Screenshot showing plugin](/assets/images/how-far.png)
   2. Click More Settings in the bottom-right corner of the window.
-  3. Under When to stop task, choose “Some text appears” and then type in one of the words in the name of your location. (e.g. for Rochester I use “Dome”)
+  3. Under When to stop task, choose “Some text appears” and then type in one of the words in the name of your location. (e.g. for Rochester I use “Dome”)  
   ![Screenshot showing plugin](/assets/images/how-sometext.png)
   4. Click off the settings window.
 4. Go back to the open tab for your location that says "No Appointments Available." If your location has one appointment available for the current day - see Phantom Appointments.
