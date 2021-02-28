@@ -15,14 +15,13 @@ This configuration file currently works, but we cannot guarantee that it will al
   - If your computer does not recognize the .json format, change the file type dropdown to All files.  
   ![Screenshot showing file type as all files](/assets/images/autoclick-download.png)
  2. Click on the extension to open its settings.
- 3. Click the three vertical dots on the configuration section (not the green button) and then choose import.  
+ 3. Click the import button at the top of the configuration section and then choose import.  
  ![Screenshot showing installation](/assets/images/autoclick-import.png)
  4. Select the file you downloaded in step 1.
  5. Under the Configuration heading, **if necessary** the URL field so that the number after apps in the first part of the URL matches the web address of your site. This could be apps2, apps4, apps5, apps7, or some other number.  
  ![Screenshot showing URL to fix](/assets/images/autoclick-url.png)
  6. Do not edit anything else for this configuration.
-
- 7. Click the blue Save button.
+ 7. Close the tab.
 
 # Step 3: Close and Reopen Chrome
 Quit and re-open Chrome. Then when you land on a page that has a time slot available, it should auto select it and show you the form to begin registration. If you receive an error message on the website, that means someone else grabbed the time before you. You can then start over looking for appointments.
