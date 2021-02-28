@@ -18,9 +18,9 @@ The [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmcee
  3. Click the three vertical dots and use the import button below the green button.  
  ![Screenshot showing installation](/assets/images/autoclick-config.png)
  4. Select the file you downloaded in step 1.
- 5. Under the Configuration heading, edit the URL field so that the number after apps in the first part of the URL matches the web address of your site. This could be apps2, apps4, apps5, apps7, or some other domain.
- ![Screenshot showing URL](/assets/images/autoclick-url.png)
+ 5. Under the Configuration heading, edit the URL field so that the number after apps in the first part of the URL matches the web address of your site. This could be apps2, apps4, apps5, apps7, or some other domain.  
+ ![Screenshot showing URL to fix](/assets/images/autoclick-url.png)
 
 
-# Turn off this extension
-You need to disable the extension in order for it to stop working.
+# To turn off this extension
+You need to [disable the extension](https://support.google.com/chrome_webstore/answer/2664769?hl=en){:target="_blank"} in order for it to stop working.
