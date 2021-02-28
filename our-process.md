@@ -16,10 +16,10 @@ Install the [Free Auto Refresh addon](https://www.google.com/url?q=https://chrom
 **Tech Savvy?** Install [this unpacked extension](https://github.com/loganrath/C19Magic){:target="_blank"} in place of Free Auto Refresh. It will refresh the page every 10 seconds, provide an audio and text notification as well as click the Select Visit Time button if an appointment is available. Combine it with the [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmceeokikomajpccajhjpacjmibe){:target="_blank"} extension to automatically grab the time.
 
 # The Step by Step Instructions
-1. Install the addon
+1. Install the extension
   1. Go to https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal
   2. Click Add to Chrome
-2. Go to the https://am-i-eligible.covid19vaccine.health.ny.gov/  and get to the providers list. You can also check Genesee County or Orleans County or a specific TOPS Markets.
+2. Go to the https://am-i-eligible.covid19vaccine.health.ny.gov/ and get to the providers list. We have noticed that [Tops Markets](https://www.topsmarkets.com/Covid19Vaccinations/){:target="_blank"} and [Orleans and Genesee County](https://orleanscountyny.com/covid-19-vaccination/){:target="_blank"}. These steps should work there, too.
   1. Right-click on the Schedule your vaccine appointment link for the place you want to go, even if it says there are no available appointments.
   2. Open this link in a new tab  (This will be the open tab referred to in step 4.)
 3. Set up the plugin

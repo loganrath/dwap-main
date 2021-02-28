@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Using Auto Click Auto Fill
+title: Auto Select a Time Using Auto Click Auto Fill
 ---
 
-We have had a lot of luck using this addon to automatically grab times. It does take more work
+We have had a lot of luck using this extension to automatically grab times. Installing and configuring this extension can be tricky and might require patience.
 
 # Auto Click Auto Fill
 The [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmceeokikomajpccajhjpacjmibe){:target="_blank"} extension will automatically select the time. To use it:
@@ -13,6 +13,7 @@ The [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmcee
  2. Use the puzzle piece icon to pin the extension.
 
 # Step 2: Download and install the configuration File
+This configuration file currently works, but we cannot guarantee that it will always work.
  1. Right-click on this [configuration file](/docs/autoclick_time.json) and save it to your computer using the Save Link as option.
  2. Click on the extension to open the settings.
  3. Click the three vertical dots and use the import button below the green button.  
