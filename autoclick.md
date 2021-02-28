@@ -17,7 +17,7 @@ This configuration file currently works, but we cannot guarantee that it will al
  1. Right-click on this [configuration file](https://raw.githubusercontent.com/loganrath/dwap-main/gh-pages/docs/autoclick_time.json){:target="_blank"} and save it to your computer using the Save Link as option.
   - If your computer does not recognize the .json format, change the file type dropdown to All files.  
   ![Screenshot showing file type as all files](/assets/images/autoclick-download.png)
- 2. Click on the extension to open the settings.
+ 2. Click on the extension to open its settings.
  3. Click the three vertical dots on the configuration section (not the green button) and then choose import.  
  ![Screenshot showing installation](/assets/images/autoclick-import.png)
  4. Select the file you downloaded in step 1.
