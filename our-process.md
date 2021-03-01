@@ -21,17 +21,17 @@ Install the [Free Auto Refresh addon](https://www.google.com/url?q=https://chrom
 
 # The Step by Step Instructions
 1. Install the extension
-  1. Go to https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal
+  1. Go to [https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal]
   2. Click Add to Chrome
-2. Go to the https://am-i-eligible.covid19vaccine.health.ny.gov/ and get to the providers list. We have noticed that [Tops Markets](https://www.topsmarkets.com/Covid19Vaccinations/){:target="_blank"} and [Orleans and Genesee County](https://orleanscountyny.com/covid-19-vaccination/){:target="_blank"}. These steps should work there, too.
+2. Go to the [https://am-i-eligible.covid19vaccine.health.ny.gov/] page to confirm eligiblity. We have noticed that [Tops Markets](https://www.topsmarkets.com/Covid19Vaccinations/){:target="_blank"} and [Orleans and Genesee County](https://orleanscountyny.com/covid-19-vaccination/){:target="_blank"} also use the NYS system. These steps should work there, too.
   1. Right-click on the Schedule your vaccine appointment link for the place you want to go, even if it says there are no available appointments.
   2. Open this link in a new tab  (This will be the open tab referred to in step 4.)
 3. Set up the plugin
-  1. Click on the puzzle piece icon and then pin the addon to your browser
-  ![Screenshot showing plugin](/assets/images/how-far.png)
+  1. Click on the puzzle piece icon and then pin the extension to your browser
+  ![Screenshot showing puzzle piece to click](/assets/images/how-far.png)
   2. Click More Settings in the bottom-right corner of the window.
   3. Under When to stop task, choose “Some text appears” and then type in one of the words in the name of your location. (e.g. for Rochester I use “Dome”)  
-  ![Screenshot showing plugin](/assets/images/how-sometext.png)
+  ![Screenshot showing plugin page with the word Dome in the correct field](/assets/images/how-sometext.png)
   4. Click off the settings window.
 4. Go back to the open tab for your location that says "No Appointments Available." If your location has one appointment available for the current day - see Phantom Appointments.
 ![Screenshot showing plugin](/assets/images/how-naa.png)
