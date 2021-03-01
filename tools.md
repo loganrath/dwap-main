@@ -22,6 +22,6 @@ Code: <code>javascript:$("#Marker0Div button").click();</code>
 </div><div class="row" markdown="1">
 
 ## Click the first time slot and submit the form.
-<a class="float-left mr-2" href="javascript:$('input[name=preRegTimeSlotID]:first').attr('checked', true); $('form[name=DatesForm]').submit();"><i class="fa fa-check fa-4x" aria-hidden="true"></i><span style="display:none;">Click 1st Button</span></a> This bookmarklet will click the first time slot and submit the forms. Drag the bolt icon to your bookmarks toolbar to use it.
+<a class="float-left mr-2" href="javascript:$('input[name=preRegTimeSlotID]:first').attr('checked', true); $('form[name=DatesForm]').submit();"><i class="fa fa-bolt fa-4x px-3" aria-hidden="true"></i><span style="display:none;">Click 1st Button</span></a> This bookmarklet will click the first time slot and submit the forms. Drag the bolt icon to your bookmarks toolbar to use it.
 
 Code: <code>javascript:$('input[name=preRegTimeSlotID]:first').attr('checked', true); $('form[name=DatesForm]').submit();</code>
