@@ -1,21 +1,23 @@
 @import "normalize";
 @import "rouge-github";
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Patrick+Hand&family=Poppins&display=swap');
+
 
 /* LAYOUT STYLES */
 body {
+  font-family: Poppins;
   font-size: 18px;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
 }
 
-h1 {font-size: 2em; display: block; width:100%; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
-h2 {font-size: 1.5em;  display: block; width:100%; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
-h3 {font-size: 1.25em;  display: block; width:100%; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
-h4 {font-size: 1em;  display: block; width:100%;  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;}
+h1 {font-size: 2em; display: block; width:100%; font-family: 'Patrick Hand', 'Helvetica Neue', Helvetica, Arial, serif;}
+h2 {font-size: 1.5em;  display: block; width:100%; font-family: 'Patrick Hand', 'Helvetica Neue', Helvetica, Arial, serif;}
+h3 {font-size: 1.25em;  display: block; width:100%; font-family: 'Patrick Hand', 'Helvetica Neue', Helvetica, Arial, serif;}
+h4 {font-size: 1em;  display: block; width:100%;  font-family: 'Patrick Hand', 'Helvetica Neue', Helvetica, Arial, serif;}
 
 header {
   background: #011825;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Patrick Hand', 'Helvetica Neue', Helvetica, Arial, serif;
   color: white;
   border-bottom: solid 1px #275da1;
 }
