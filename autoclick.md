@@ -20,8 +20,9 @@ This configuration file currently works, but we cannot guarantee that it will al
  5. Under the Configuration heading, look at the URL field.
   - Make sure the number after apps in the first part of the URL matches the web address of the page that says "No Available Appointments"
   - This could be apps2, apps4, apps5, apps7, or some other number.  
- ![Screenshot showing URL to fix](/assets/images/autoclick-url.png)
- ![Screenshot showing URL of webpage](/assets/images/autoclick-page.png)
+ ![Screenshot showing URL to fix](/assets/images/autoclick-url.png)  
+ must match  
+ ![Screenshot showing URL of webpage](/assets/images/autoclick-pageurl.png)
 
  6. Do not edit anything else for this configuration.
  7. Close the tab.
