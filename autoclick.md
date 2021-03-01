@@ -13,8 +13,8 @@ We have had a lot of luck using this extension to automatically grab times. Inst
 This configuration file currently works, but we cannot guarantee that it will always work.
  1. Right-click on this [configuration file](https://raw.githubusercontent.com/loganrath/dwap-main/gh-pages/docs/autoclick_time.json){:target="_blank"} and save it to your computer using the Save Link as option.  
  <span class="text-danger">DO NOT try to click the file. Just leave it downloaded.</span>
- 3. Click on the extension icon in chrome to open its settings.
- 4. Click the import button at the top of the configuration section and then choose import.  
+ 3. Click on the extension icon in Chrome to open its settings.
+ 4. Click the import button at the top of the configuration section.
  ![Screenshot showing installation](/assets/images/autoclick-import.png)
  5. Select the file you downloaded in step 1.
  6. Under the Configuration heading, look at the URL field.
@@ -28,10 +28,10 @@ This configuration file currently works, but we cannot guarantee that it will al
  8. Close the tab.
 
 # Step 3: Close and Reopen Chrome
-Quit and re-open Chrome. Then when you land on a page that has a time slot available, it should auto select it and show you the form to begin registration. If you receive an error message on the website, that means someone else grabbed the time before you. You can then start over looking for appointments.
+Quit and re-open Chrome. Start at the [Am I Eligible](https://am-i-eligible.covid19vaccine.health.ny.gov/) page. Then when you land on a page that has a time slot available, it should auto select it and show you the form to begin registration. If you receive an error message on the website, that means someone else grabbed the time before you. You can then start over looking for appointments.
 
 # Step 4: Update as Needed
-If the URL of the appointment page changes (e.g. from apps5 to apps7), you will need to repeat step 2 part 5 to make sure the correct domain in showing.
+If the URL of the appointment page changes (e.g. from apps5 to apps7), you will need to repeat step 2 part 6 to make sure the correct domain in showing.
 
 
 # To turn off this extension
