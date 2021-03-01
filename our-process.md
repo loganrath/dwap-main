@@ -21,9 +21,9 @@ Install the [Free Auto Refresh addon](https://www.google.com/url?q=https://chrom
 
 # The Step by Step Instructions
 1. Install the extension
-   1. Go to [](https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal)
+   1. Go to [https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal](https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal)
    2. Click Add to Chrome
-2. Go to the (https://am-i-eligible.covid19vaccine.health.ny.gov/) page to confirm eligiblity. We have noticed that [Tops Markets](https://www.topsmarkets.com/Covid19Vaccinations/){:target="_blank"} and [Orleans and Genesee County](https://orleanscountyny.com/covid-19-vaccination/){:target="_blank"} also use the NYS system. These steps should work there, too.
+2. Go to the [https://am-i-eligible.covid19vaccine.health.ny.gov/](https://am-i-eligible.covid19vaccine.health.ny.gov/) page to confirm eligibility. We have noticed that [Tops Markets](https://www.topsmarkets.com/Covid19Vaccinations/){:target="_blank"} and [Orleans and Genesee County](https://orleanscountyny.com/covid-19-vaccination/){:target="_blank"} also use the NYS system. These steps should work there, too.
    1. Right-click on the Schedule your vaccine appointment link for the place you want to go, even if it says there are no available appointments.
    2. Open this link in a new tab  (This will be the open tab referred to in step 4.)
 3. Set up the plugin
