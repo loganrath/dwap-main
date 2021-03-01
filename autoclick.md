@@ -14,7 +14,7 @@ This configuration file currently works, but we cannot guarantee that it will al
  1. Right-click on this [configuration file](https://raw.githubusercontent.com/loganrath/dwap-main/gh-pages/docs/autoclick_time.json){:target="_blank"} and save it to your computer using the Save Link as option.  
  <span class="text-danger">DO NOT try to click the file. Just leave it downloaded.</span>
  3. Click on the extension icon in Chrome to open its settings.
- 4. Click the import button at the top of the configuration section.
+ 4. Click the import button at the top of the configuration section.  
  ![Screenshot showing installation](/assets/images/autoclick-import.png)
  5. Select the file you downloaded in step 1.
  6. Under the Configuration heading, look at the URL field.
