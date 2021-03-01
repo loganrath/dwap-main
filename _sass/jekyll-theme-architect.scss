@@ -5,10 +5,12 @@
 
 /* LAYOUT STYLES */
 body {
-  font-family: Poppins;
+  font-family: "Poppins";
   font-size: 18px;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
 }
+
+ol ol {list-style-type: lower-alpha;}
 
 h1 {font-size: 2em; display: block; width:100%; font-family: 'Patrick Hand', 'Helvetica Neue', Helvetica, Arial, serif;}
 h2 {font-size: 1.5em;  display: block; width:100%; font-family: 'Patrick Hand', 'Helvetica Neue', Helvetica, Arial, serif;}
