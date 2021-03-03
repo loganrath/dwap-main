@@ -8,8 +8,8 @@ These two extensions make up [our process](/our-process):
  - [C19 Magic NY Extension](https://chrome.google.com/webstore/detail/c19-magic-ny/feeepbmhmihglmdnafpaeddiinadkijb?hl=en&authuser=0){:target="_blank"} is an custom extension. When starated, it will automatically refresh the page every 10 seconds, give an audio and text notification and click the Select Visit Time button. It does not select a time. See [our process](/our-process) for instructions.
  - [Auto Click Auto Fill](/autoclick){:target="_blank"} will help you automatically click the first available time slot. This extension takes a lot of setup.
 
-We have also tried these two extensions. They are generic and work on any web page.
- - [Free Auto Refresh](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal){:target="_blank"} works well but does not auto select anything. See our [previous directions for an auto refresh extensions](/autorefresh).
+We have also tried these two extensions. They are generic and work on any web page. See our [page on using an auto refresher](/autorefresh) for more information.
+ - [Free Auto Refresh](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal){:target="_blank"} works well but does not auto select anything.
  - [Easy Auto Refresh](https://chrome.google.com/webstore/detail/easy-auto-refresh/aabcgdmkeabbnleenpncegpcngjpnjkc?hl=en){:target="_blank"} will refresh the page. You can pay for notifications.
 
 # Bookmarklets
