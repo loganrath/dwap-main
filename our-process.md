@@ -19,18 +19,17 @@ Alternatively, use the [Free Auto Refresh addon](https://www.google.com/url?q=ht
 
 # The Step by Step Instructions
 1. Install the extension
-   1. Go to [C19 Magic NY Extension](https://chrome.google.com/webstore/detail/c19-magic-ny/feeepbmhmihglmdnafpaeddiinadkijb?hl=en&authuser=0).
+   1. Go to [C19 Magic NY Extension](https://chrome.google.com/webstore/detail/c19-magic-ny/feeepbmhmihglmdnafpaeddiinadkijb?hl=en&authuser=0){:target="_blank"}.
    2. Click Add to Chrome.
    3. Click on the puzzle piece icon and then pin the extension to your browser.
    ![Screenshot showing puzzle piece to click](/assets/images/how-pinc19.png)
 2. Go to the [https://am-i-eligible.covid19vaccine.health.ny.gov/](https://am-i-eligible.covid19vaccine.health.ny.gov/) page to confirm eligibility and prepare to select a location.
    1. We have noticed that [Tops Markets](https://www.topsmarkets.com/Covid19Vaccinations/){:target="_blank"} and [Orleans and Genesee County](https://orleanscountyny.com/covid-19-vaccination/){:target="_blank"} also use the NYS system. These steps should work there, too.
-   2. Ignore any messages on the main page that say that there are no appointments avialable.
+   2. Ignore any messages on the main page that say that there are no appointments available.
 3. Right-click on the Schedule your vaccine appointment link for the place you want to go, even if it says there are no available appointments. Open this link in a new tab.
-4. Click on the extension icon
-5. Enter a number of seconds in the interval (start with 5)
-6. Press Start.
-7. Wait for your computer to make a sound and alert you that there is an appointment available. When this happens, select a time, or configure [Auto Click Auto Fill](/autoclick) to select the time for you.
+4. Click on the extension icon.
+5. Press **Start**.
+6. Wait for your computer to make a sound and alert you that there is an appointment available. When this happens, select a time, or configure [Auto Click Auto Fill](/autoclick) to select the time for you.
 
 # Phantom Appointments
 NOTE: Occasionally there is a phantom appointment that makes the extension alert you. In this case you can either wait until the appointment clears out (usually 6:31pm).
