@@ -32,7 +32,7 @@ Alternatively, use the [Free Auto Refresh addon](https://www.google.com/url?q=ht
 6. Wait for your computer to make a sound and alert you that there is an appointment available. When this happens, select a time, or configure [Auto Click Auto Fill](/autoclick) to select the time for you.
 
 # Phantom Appointments
-NOTE: Occasionally there is a phantom appointment that makes the extension alert you. In this case you can either wait until the appointment clears out (usually 6:31pm).
+NOTE: Occasionally there is a phantom appointment that makes the extension alert you. In this case you must wait until the appointment clears out.
 
 # Now What?
-Now keep your browser window open and when your computer goes bing! you've got approximately 2 seconds to get to that window and choose a time. May the odds be ever in your favor!
+Now keep your browser window open and when your computer goes bing! you've got approximately 2 seconds to get to that window and choose a time if you're not using the [Auto Click Auto Fill](/autoclick) plugin. May the odds be ever in your favor!
