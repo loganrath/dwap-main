@@ -5,7 +5,7 @@ title: Helpful Tools
 
 # Extensions
 These two extensions make up [our process](/our-process):
- - [C19 Magic NY Extension](https://chrome.google.com/webstore/detail/c19-magic-ny/feeepbmhmihglmdnafpaeddiinadkijb?hl=en&authuser=0){:target="_blank"} is an custom extension. When starated, it will automatically refresh the page every 10 seconds, give an audio and text notification and click the Select Visit Time button. It does not select a time.
+ - [C19 Magic NY Extension](https://chrome.google.com/webstore/detail/c19-magic-ny/feeepbmhmihglmdnafpaeddiinadkijb?hl=en&authuser=0){:target="_blank"} is an custom extension. When starated, it will automatically refresh the page every 10 seconds, give an audio and text notification and click the Select Visit Time button. It does not select a time. See [our process](/our-process) for instructions.
  - [Auto Click Auto Fill](/autoclick){:target="_blank"} will help you automatically click the first available time slot. This extension takes a lot of setup.
 
 We have also tried these two extensions. They are generic and work on any web page:
