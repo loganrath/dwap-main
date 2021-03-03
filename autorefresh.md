@@ -9,7 +9,7 @@ An auto refresher will automatically refresh your browser page. Some have more f
 1. Install [Free Auto Refresh addon](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal){:target="_blank"} and pin the extension to your browser  
 ![Screenshot showing puzzle piece to click](/assets/images/how-far.png)
 2. Click More Settings in the bottom-right corner of the window.
-3. Under When to stop task, choose “Some text appears” and then type in one of the words in the name of your location. (e.g. for Rochester I use “Dome”)
+3. Under When to stop task, choose “Some text appears” and then type in one of the words in the name of your location. (e.g. for Rochester I use “Dome”)  
   ![Screenshot showing plugin](/assets/images/how-sometext.png)
 4. Click off the settings window.
 5. Navigate to the page where you want the extension to run.
