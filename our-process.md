@@ -19,16 +19,16 @@ Alternatively, use the [Free Auto Refresh addon](https://www.google.com/url?q=ht
 
 # The Step by Step Instructions
 1. Install the extension
-   1. Go to [C19 Magic NY Extension](https://chrome.google.com/webstore/detail/c19-magic-ny/feeepbmhmihglmdnafpaeddiinadkijb?hl=en&authuser=0){:target="_blank"}.
+   1. Go to the [C19 Magic NY extension](https://chrome.google.com/webstore/detail/c19-magic-ny/feeepbmhmihglmdnafpaeddiinadkijb?hl=en&authuser=0){:target="_blank"} page.
    2. Click Add to Chrome.
    3. Click on the puzzle piece icon and then pin the extension to your browser.
    ![Screenshot showing puzzle piece to click](/assets/images/how-pinc19.png)
-2. Go to the [https://am-i-eligible.covid19vaccine.health.ny.gov/](https://am-i-eligible.covid19vaccine.health.ny.gov/) page to confirm eligibility and prepare to select a location.
+2. Go to the [https://am-i-eligible.covid19vaccine.health.ny.gov/](https://am-i-eligible.covid19vaccine.health.ny.gov/){:target="_blank"} page to confirm eligibility and prepare to select a location.
    1. We have noticed that [Tops Markets](https://www.topsmarkets.com/Covid19Vaccinations/){:target="_blank"} and [Orleans and Genesee County](https://orleanscountyny.com/covid-19-vaccination/){:target="_blank"} also use the NYS system. These steps should work there, too.
    2. Ignore any messages on the main page that say that there are no appointments available.
-3. Right-click on the Schedule your vaccine appointment link for the place you want to go, even if it says there are no available appointments. Open this link in a new tab.
+3. Right-click on the link to Schedule your vaccine appointment at the place you want to go, even if it says there are no available appointments. Open this link in a new tab.
 4. Click on the extension icon.
-5. Press **Start**.
+5. Press the green **Start** button.
 6. Wait for your computer to make a sound and alert you that there is an appointment available. When this happens, select a time, or configure [Auto Click Auto Fill](/autoclick) to select the time for you.
 
 # Phantom Appointments
