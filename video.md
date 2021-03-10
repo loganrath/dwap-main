@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: smallheader
 title: Video Instructions
 ---
 
-We understand that you might need help. We are a small group of people who have full time jobs. We are prioritizing those who **do not have access to technology** as well as **elderly individuals**.
+We understand that you might need help. We are a small group of people who have full time jobs. We are prioritizing those who **do not have access to technology** as well as **elderly individuals**. We made this video to help.
 
 This video will walk you through the process. You may need to watch it more than once. The video will walk you through:
 
