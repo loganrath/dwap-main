@@ -11,4 +11,5 @@ title: I Need Help
   <div class="col mx-auto"><a class="btn btn-success btn-lg btn-block py-md-3" href="/help-3">Yes</a></div>
   <div class="col mx-auto"><a class="btn btn-info btn-lg btn-block py-md-3" href="/video">No</a></div>
   <div class="col mx-auto"><a class="btn btn-warning btn-lg btn-block py-md-3" href="/help-3b">I don't have a computer</a></div>
+  <div class="col mx-auto"><a class="btn btn-danger btn-lg btn-block py-md-3" href="/help-3b">I don't know what this means</a></div>
 </div>
