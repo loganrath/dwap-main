@@ -5,7 +5,7 @@ title: I Need Help
 
 {% include helptext.html %}
 
-<p class="h3 mb-4">4. Have tried a different site for at least 2 hours?</p>
+<p class="h3 mb-4">4. Have tried multiple sites for an hour each? On different days?</p>
 <p>Occasionally the state will stop allowing new appointments at one site. Please try another site for at least 2 hours before proceeding.</p>
 
 <div class="row w-100 mb-5">
