@@ -1,5 +1,5 @@
 ---
 title: DWAP
 layout: meta
-redirect: https://tiny.cc/dwapform
+redirect: https://dwap.xyz/help-1
 ---
