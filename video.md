@@ -12,6 +12,8 @@ This video will walk you through the process. You may need to watch it more than
 3. Use the [Am I Eligible](https://am-i-eligible.covid19vaccine.health.ny.gov/){:target="_blank"} site to verify eligibility.
 4. Clicking the C19 Magic NY extension and pressing start if an appointment isn't immediately available.
 
-<div class="embed-responsive embed-responsive-16by9 w-100 pb-5 mb-5">
+Scroll down to watch the video, or [open it in YouTube](https://www.youtube.com/watch?v=ZEzvoALzt7g){:target="_blank"}
+
+<div class="embed-responsive embed-responsive-16by9 w-100 pb-5 my-5">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZEzvoALzt7g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
