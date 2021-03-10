@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: smallheader
 title: I Need Help
 ---
 
