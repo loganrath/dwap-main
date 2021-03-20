@@ -8,7 +8,6 @@ title: I Need Help
 <p class="h3 mb-4">3. Have you tried calling the NYS Vaccine Help Line?</p>
 <p class="text-center display-4 d-block w-100">1-833-NYS-4VAX</p>
 <p class="text-center d-block w-100"><a href="tel:+18336974829">1-833-697-4289</a></p>
-<p>We've found that once folks know our process they're happy to help others make appointments, too!</p>
 
 <div class="row w-100 mb-5">
 <div class="col-12 col-md-6 col-lg-3 mb-3 mb-lg-1 d-flex align-items-stretch">
