@@ -20,6 +20,6 @@ title: I Need Help
   <a class="btn btn-warning btn-lg btn-block py-md-3 d-flex flex-sm-column align-items-center justify-content-center" href="javascript:alert('Please try calling 1-833-NYS-4VAX.')">No</a>
 </div>
 <div class="col-12 col-md-6 col-lg-3 mb-3 mb-lg-1 d-flex align-items-stretch">
-  <a class="btn btn-danger btn-lg btn-block py-md-3 d-flex flex-sm-column align-items-center justify-content-center" href="/help-4b">I don't want to use the phone.</a>
+  <a class="btn btn-danger btn-lg btn-block py-md-3 d-flex flex-sm-column align-items-center justify-content-center" href="/help-5">I don't want to use the phone.</a>
 </div>
 </div>
