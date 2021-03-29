@@ -8,6 +8,11 @@ layout: default
 Use this  guide at your own risk. This guide only works when the page says No Appointments Available. **If there is an appointment available, but no available times once you click the Select Visit Time button, you must wait for the system to update. This will happen at the end of the time span listed in the appointment**
 </div>
 
+<div class="col-xs-12 alert alert-danger" markdown=1>
+# Update
+The state has made changes to some of its vaccination sites. If you click on the site and get a page that says Vaccine Scheduling where you have to identify you are a human, this process will not work for you and we do not know of any work arounds that will work.
+</div>
+
 # The Basic Idea
 Install the [C19 Magic NY Extension](https://chrome.google.com/webstore/detail/c19-magic-ny/feeepbmhmihglmdnafpaeddiinadkijb?hl=en&authuser=0){:target="_blank"} in your Chrome browser. It will automatically refresh the page every 10 seconds and click the "Select Visit Time" button if one exists. Combine it with the [Auto Click Auto Fill](https://chrome.google.com/extensions/detail/iapifmceeokikomajpccajhjpacjmibe){:target="_blank"} extension to automatically grab select the time.
 
